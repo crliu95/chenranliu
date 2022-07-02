@@ -8,13 +8,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-organizations:
-  - name: Peking University
-    url: https://pku.edu.cn/
+social: []
+organizations: []
 education:
   courses: []
 email: chenranliu95@gmail.com
