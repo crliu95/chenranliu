@@ -1,6 +1,6 @@
 ---
 title: Chenran Liu
-role: Ph.D student at Guanghua Management School, Peking University
+role: ""
 avatar_filename: 光华新楼-正面半身照-竖版.jpg
 bio: "Fields: Development Economics and Political Economics; Current Interests:
   Financial Development, Research & Innovation, Textual Analysis, and Big Data."
